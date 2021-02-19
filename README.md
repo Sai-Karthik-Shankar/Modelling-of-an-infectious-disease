@@ -1,6 +1,6 @@
 # Modelling-of-an-infectious-disease
 
-Simulates the spread of an infectious disease.
+Simulates the spread of an infectious disease using a compartmental model of varying complexity.
 
 # SIR Model
 This is a simple model that shows the chunk of poplulation that are Susceptible (S), Infected (I), and Removed (R)\

@@ -1,6 +1,8 @@
-# Modelling-of-an-infectious-disease
+# Modelling-of-an-infectious-disease (Compartmental Models)
 
-Simulates the spread of an infectious disease using a compartmental model of varying complexity.
+Compartmental models simplify the mathematical modelling of infectious diseases. The population is assigned to compartments with labels – for example, S, I, or R, (Susceptible, Infectious, or Recovered). People may progress between compartments. The order of the labels usually shows the flow patterns between the compartments; for example SEIS means susceptible, exposed, infectious, then susceptible again.
+
+The origin of such models is the early 20th century, with important works being that of Ross in 1916, Ross and Hudson in 1917, Kermack and McKendrick in 1927 and Kendall in 1956
 
 ### Assumptions
   Models are only as good as the assumptions on which they are based. If a model makes predictions that are out of line with observed results and the mathematics is correct, the     initial assumptions must change to make the model useful.
